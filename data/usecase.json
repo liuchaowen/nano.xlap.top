@@ -1,0 +1,74 @@
+{
+    "cases": [
+        {
+            "image": "case1-effect.png",
+            "originalImage": "case1-original.png",
+            "title": "桌面手办",
+            "desc": "在电脑屏幕前有一个手办托盘，屏幕是托办三维设计原型图，旁边放着一个托办盒子，托盘上展示着图片模样的手办。",
+            "prompt": "turn this photo into a character figure. Behind it, place a box with the character's image printed on it, and a computer showing the Blender modeling process on its screen. In front of the box, add a round plastic base with the character figure standing on it. set the scene indoors if possible"
+        },
+        {
+            "image": "case2-effect.png",
+            "originalImage": "case2-original.jpg",
+            "title": "角色设定",
+            "desc": "一句话生成一套角色设定/故事书",
+            "prompt": "为我生成人物的角色设定（Character Design）;比例设定（不同身高对比、头身比等）;三视图（正面、侧面、背面）;表情设定（Expression Sheet） ;动作设定（Pose Sheet） → 各种常见姿势;服装设定（Costume Design）"
+        },
+        {
+            "image": "case3-effect.png",
+            "originalImage": "case3-original.webp",
+            "title": "动漫转真人",
+            "desc": "把动漫里的人物转换成真人场景，接近 1:1 还原",
+            "prompt": "Generate a highly detailed photo of a girl cosplaying this illustration, at Comiket. Exactly replicate the same pose, body posture, hand gestures, facial expression, and camera framing as in the original illustration. Keep the same angle, perspective, and composition, without any deviation"
+        },
+        {
+            "image": "case4-effect.png",
+            "originalImage": "case4-original.jpg",
+            "title": "针织玩偶",
+            "desc": "呆萌可爱的针织效果",
+            "prompt": "A close-up, professionally composed photograph showing a handmade crocheted yarn doll being gently held in both hands. The doll has a rounded shape and an adorable chibi-style appearance, with vivid color contrasts and rich details. The hands holding the doll appear natural and tender, with clearly visible finger posture, and the skin texture and light-shadow transitions look soft and realistic, conveying a warm, tangible touch. The background is slightly blurred, depicting an indoor setting with a warm wooden tabletop and natural light streaming in through a window, creating a cozy and intimate atmosphere. The overall image conveys a sense of exquisite craftsmanship and a cherished, heartwarming emotion."
+        },
+        {
+            "image": "case5-effect.png",
+            "originalImage": "case5-original.png",
+            "title": "产品效果",
+            "desc": "一句话把产品设计转变成实物效果图(磨砂玻璃瓶配大理石瓶盖)",
+            "prompt": "turn this illustration of a perfume into a realistic version, Frosted glass bottle with a marble cap"
+        },
+        {
+            "image": "case6-effect.png",
+            "originalImage": "case6-original.jpg",
+            "title": "电影分镜",
+            "desc": "一句话把情侣照生成一张有故事感的照片",
+            "prompt": "用这两个角色创作一个令人上瘾的故事，讲述经典的黑色电影侦探故事。故事关于他们寻找线索并最终发现的失落的宝藏。整个故事充满刺激，有情感的高潮和低谷，以精彩的转折和高潮结尾。不要在图像中包含任何文字或文本，纯粹通过图像本身讲述故事"
+        },
+        {
+            "image": "case7-effect.png",
+            "originalImage": "case7-original.png",
+            "title": "设计稿",
+            "desc": "把线稿变成马克笔画/水彩画/diagram",
+            "prompt": "turn this photo into 马克笔画/水彩画/diagram"
+        },
+        {
+            "image": "case8-effect.png",
+            "originalImage": "case8-original.png",
+            "title": "变清晰",
+            "desc": "把模糊的图片变清晰",
+            "prompt": "Enhance this image to high resolution"
+        },
+        {
+            "image": "case9-effect.png",
+            "originalImage": "case9-original.jpg",
+            "title": "建筑模型",
+            "desc": "把有建筑的图片抽离出建筑模型",
+            "prompt": "将图像制作成白天和等距视图[仅限建筑]"
+        },
+        {
+            "image": "case10-effect.png",
+            "originalImage": "case10-original.png",
+            "title": "俯视图",
+            "desc": "平视转俯视图",
+            "prompt": "将照片转换为俯视角度并标记摄影师的位置"
+        }
+    ]
+}
